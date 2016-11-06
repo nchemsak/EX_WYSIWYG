@@ -1,0 +1,39 @@
+h3 {
+  color: tomato;
+  margin-top: 0;
+  font-size: 220%; }
+
+.peeps:nth-child(even) {
+  background-color: lightyellow; }
+
+.peeps:nth-child(odd) {
+  background-color: lightblue; }
+
+.peeps {
+  font-size: .85em;
+  text-align: center; }
+
+h4 {
+  margin-top: 10px; }
+
+img {
+  height: 35%;
+  width: 35%; }
+
+article {
+  // background-color: #e7a61a;
+  margin: 10px;
+  height: 300px;
+  width: 270px;
+  padding: 5px;
+  display: inline-block;
+  overflow: scroll;
+  box-shadow: 0.15em 0.15em 0.5em rgba(14, 14, 40, 0.9); }
+
+.dotted {
+  border: 2px dotted black; }
+
+p {
+  text-align: justify;
+  width: 85%;
+  margin: 0 auto; }
